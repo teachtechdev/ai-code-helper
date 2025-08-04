@@ -18,4 +18,4 @@ Thanks for being here! AI Code Helper is built for learners, by learners.
 
 ---
 
-Need help? Ping us on [Discord](#) or open an issue!
+Need help? Ping us on [Discord](https://discord.gg/qP8tCYpxtj) or open an issue!
